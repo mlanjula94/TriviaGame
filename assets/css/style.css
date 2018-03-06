@@ -1,0 +1,21 @@
+body { 
+    background-image: url('../images/nyc6.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+
+.bg-container{
+    background-color: darkkhaki;
+    margin: 100px auto;
+    align-self: center;
+   /* padding: 250px;?*/
+   height: 500px;
+  
+    font-family: 'Shrikhand', cursive;
+}
+
+/*.h1{
+    position: relative;
+    top : -230px;
+}*/
